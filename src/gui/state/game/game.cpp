@@ -32,6 +32,7 @@
 #include <boost/algorithm/string.hpp>
 #include <boost/format.hpp>
 #include <boost/locale.hpp>
+#include <spdlog/fmt/bundled/ranges.h>
 
 #include "gui/helpers.h"
 #include "gui/state/game/game_detection_error.h"
@@ -682,12 +683,12 @@ std::vector<std::string> Game::GetInstalledPluginNames() {
         gameHandle_->IsValidPlugin(it->path().filename().u8string())) {
       string name = it->path().filename().u8string();
 
-      if (logger_) {
-        logger_->info("Found plugin: {}", name);
-      }
-
       plugins.push_back(name);
     }
+  }
+
+  if (logger_) {
+    logger_->info("Found plugins: {}", plugins);
   }
 
   return plugins;
