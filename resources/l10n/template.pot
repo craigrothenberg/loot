@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LOOT 0.14.0\n"
 "Report-Msgid-Bugs-To: https://github.com/loot/loot/issues\n"
-"POT-Creation-Date: 2019-01-25 19:20+0000\n"
+"POT-Creation-Date: 2019-01-27 16:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -218,35 +218,35 @@ msgstr ""
 msgid "Verified clean by %s"
 msgstr ""
 
-#: src/gui/html/js/events.js:132
+#: src/gui/html/js/events.js:133
 msgid "Updating and parsing masterlist..."
 msgstr ""
 
-#: src/gui/html/js/events.js:155
+#: src/gui/html/js/events.js:156
 msgid "Masterlist updated to revision %s."
 msgstr ""
 
-#: src/gui/html/js/events.js:162
+#: src/gui/html/js/events.js:163
 msgid "No masterlist update was necessary."
 msgstr ""
 
-#: src/gui/html/js/events.js:198
+#: src/gui/html/js/events.js:199
 msgid "Cyclic interaction detected"
 msgstr ""
 
-#: src/gui/html/js/events.js:205
+#: src/gui/html/js/events.js:206
 msgid "Failed to sort plugins. Details: %s"
 msgstr ""
 
-#: src/gui/html/js/events.js:232
+#: src/gui/html/js/events.js:233
 msgid "Sorting made no changes to the load order."
 msgstr ""
 
-#: src/gui/html/js/events.js:272
+#: src/gui/html/js/events.js:273
 msgid "Redate Plugins?"
 msgstr ""
 
-#: src/gui/html/js/events.js:273
+#: src/gui/html/js/events.js:274
 msgid ""
 "This feature is provided so that modders using the Creation Kit may set the "
 "load order it uses. A side-effect is that any subscribed Steam Workshop "
@@ -254,53 +254,53 @@ msgid ""
 "Edition). Do you wish to continue?"
 msgstr ""
 
-#: src/gui/html/js/events.js:276
+#: src/gui/html/js/events.js:277
 msgid "Redate"
 msgstr ""
 
-#: src/gui/html/js/events.js:282
+#: src/gui/html/js/events.js:283
 msgid "Plugins were successfully redated."
 msgstr ""
 
-#: src/gui/html/js/events.js:293
+#: src/gui/html/js/events.js:294
 msgid ""
 "Are you sure you want to clear all existing user-added metadata from all "
 "plugins?"
 msgstr ""
 
-#: src/gui/html/js/events.js:296
-#: src/gui/html/js/events.js:592
+#: src/gui/html/js/events.js:297
+#: src/gui/html/js/events.js:593
 msgid "Clear"
 msgstr ""
 
-#: src/gui/html/js/events.js:311
+#: src/gui/html/js/events.js:312
 msgid "All user-added metadata has been cleared."
 msgstr ""
 
-#: src/gui/html/js/events.js:345
+#: src/gui/html/js/events.js:346
 msgid "LOOT's content has been copied to the clipboard."
 msgstr ""
 
-#: src/gui/html/js/events.js:360
+#: src/gui/html/js/events.js:361
 msgid "The load order has been copied to the clipboard."
 msgstr ""
 
-#: src/gui/html/js/events.js:397
+#: src/gui/html/js/events.js:398
 msgid ""
 "You have not yet applied or cancelled your %s. Are you sure you want to "
 "quit?"
 msgstr ""
 
-#: src/gui/html/js/events.js:401
+#: src/gui/html/js/events.js:402
 #: src/gui/html/js/translateStaticText.js:402
 msgid "Quit"
 msgstr ""
 
-#: src/gui/html/js/events.js:417
+#: src/gui/html/js/events.js:418
 msgid "sorted load order"
 msgstr ""
 
-#: src/gui/html/js/events.js:419
+#: src/gui/html/js/events.js:420
 msgid "metadata edits"
 msgstr ""
 
@@ -308,15 +308,15 @@ msgstr ""
 msgid "Identifying conflicting plugins..."
 msgstr ""
 
-#: src/gui/html/js/events.js:577
+#: src/gui/html/js/events.js:578
 msgid "The metadata for \"%s\" has been copied to the clipboard."
 msgstr ""
 
-#: src/gui/html/js/events.js:588
+#: src/gui/html/js/events.js:589
 msgid "Are you sure you want to clear all existing user-added metadata from \"%s\"?"
 msgstr ""
 
-#: src/gui/html/js/events.js:613
+#: src/gui/html/js/events.js:614
 msgid "The user-added metadata for \"%s\" has been cleared."
 msgstr ""
 
