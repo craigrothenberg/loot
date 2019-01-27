@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LOOT 0.14.0\n"
 "Report-Msgid-Bugs-To: https://github.com/loot/loot/issues\n"
-"POT-Creation-Date: 2019-01-27 19:09+0000\n"
+"POT-Creation-Date: 2019-01-27 19:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -269,7 +269,7 @@ msgid ""
 msgstr ""
 
 #: src/gui/html/js/events.js:294
-#: src/gui/html/js/events.js:594
+#: src/gui/html/js/events.js:586
 msgid "Clear"
 msgstr ""
 
@@ -308,15 +308,15 @@ msgstr ""
 msgid "Identifying conflicting plugins..."
 msgstr ""
 
-#: src/gui/html/js/events.js:579
+#: src/gui/html/js/events.js:571
 msgid "The metadata for \"%s\" has been copied to the clipboard."
 msgstr ""
 
-#: src/gui/html/js/events.js:590
+#: src/gui/html/js/events.js:582
 msgid "Are you sure you want to clear all existing user-added metadata from \"%s\"?"
 msgstr ""
 
-#: src/gui/html/js/events.js:615
+#: src/gui/html/js/events.js:605
 msgid "The user-added metadata for \"%s\" has been cleared."
 msgstr ""
 
